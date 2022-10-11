@@ -19,18 +19,18 @@
 <br>
 
 ## Description
-### Website which helps users to register and login to create their own todo list.
+### (Homepage) Website which helps users to register and login to create their own todo list. Users can search for tasks by their first name if needed.
 <img src="images/1.png" width=600 height=550>
 
 <br>
 
-### Users can update (POST method) their info on a particular task.
+### Users can update (POST method) their info on a particular task, add description and select if the task is completed or not which is later shown on the. users homepage.
 <img src="images/4.png" width=500 height=450>
 
 
 <br>
 
-### Deleting any tasks selected
+### Deleting any tasks that have been completed.
 <img src="images/5.png" width=600 height=250>
 
 <br>
